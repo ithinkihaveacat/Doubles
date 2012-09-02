@@ -9,6 +9,9 @@ Released under a New BSD License.
 
 Feedback can be left at http://www.dancras.co.uk
 
+[![Build
+Status](https://secure.travis-ci.org/ithinkihaveacat/Doubles.png)](http://travis-ci.org/ithinkihaveacat/Doubles)
+
 
 Getting Started
 ---------------
